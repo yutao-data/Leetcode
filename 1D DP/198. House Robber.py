@@ -21,3 +21,4 @@ class Solution:
             )
 
         return maxRobbedAmount[0]
+
